@@ -1,4 +1,4 @@
-# Quantum-Programmng-Experiments
+# Quantum-Programming-Exps
 
 This repository is my personal stash of Quantum programming.
 
